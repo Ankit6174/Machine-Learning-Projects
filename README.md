@@ -30,8 +30,9 @@ The following tools and libraries are commonly used in these projects:
 ## Projects
 
 1. **Rock vs Mine Prediction** - *Brief Description*: `I used Logistic Regression to predict the given object is rock or a mine.`
-2. **Diabetes Prediction** - *Breif Description*: `In this project, I created a simple diabetes patient regocnizer with the help of a machine learning algorithm and which is Decision Tree Classifier. This model can predict that the patient is suffered from diabetes or not with the help of given features like, Blood Pressure, FBS, Smoking and more.`
-3. **Digit Prediction** - *Brief Description*: `I used Decision Tree to predict the given number.`
+2. **Heart Data Analysis** - *Brief Description*: `This is not a machine learning project. But for basic understand of core statistics I make this project. This is a simple heart data analysis of patient of a hospital that can analyze some factors based upon data.`
+3. **Diabetes Prediction** - *Breif Description*: `In this project, I created a simple diabetes patient regocnizer with the help of a machine learning algorithm and which is Decision Tree Classifier. This model can predict that the patient is suffered from diabetes or not with the help of given features like, Blood Pressure, FBS, Smoking and more.`
+4. **Digit Prediction Webapp** - *Brief Description*: `I used Random Forest Classifier to predict the given image.`
 
 Each project is contained in its own folder with a dedicated README explaining the dataset, methods used, and findings.
 
