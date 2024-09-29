@@ -1,0 +1,4 @@
+* text=auto
+*.md text eol=lf    # For Markdown files
+*.py text eol=lf    # For Python files
+*.csv text eol=lf   # For CSV files
