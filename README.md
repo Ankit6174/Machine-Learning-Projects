@@ -52,6 +52,6 @@ To run the projects locally, follow these steps:
 
 ### Contact:
 If you have any questions or suggestions, feel free to reach out:
-- **Email:** ahirwarankit@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/ankit-6174-8230b325b/
-- **GitHub:** https://github.com/Ankit100010/
+- **Email:** ahirwarankit2345@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ankit-6174/
+- **GitHub:** https://github.com/Ankit6174/
